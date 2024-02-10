@@ -1,0 +1,14 @@
+<ArrayList>
+  <item>
+    <name>Ivan</name>
+    <age>20</age>
+  </item>
+  <item>
+    <name>Oleg</name>
+    <age>18</age>
+  </item>
+  <item>
+    <name>Anna</name>
+    <age>25</age>
+  </item>
+</ArrayList>
